@@ -171,3 +171,4 @@ Temporary Items
 # End of https://www.toptal.com/developers/gitignore/api/macos
 
 프로젝트 가이드.md
+*.txt
